@@ -1,19 +1,19 @@
 {
-  "name": "hubot-hubot-dls",
+  "name": "hubot-witty",
   "description": "A hubot script that does the things",
-  "version": "0.0.0",
-  "author": "mitz <tomohiro.mitsumune@dena.com>",
+  "version": "0.0.1",
+  "author": "tmitz <tmitsumune@gmail.com>",
   "license": "MIT",
 
   "keywords": ["hubot","hubot-scripts"],
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/mitz/hubot-hubot-dls.git"
+    "url": "https://github.com/tmitz/hubot-witty.git"
   },
 
   "bugs": {
-    "url": "https://github.com/mitz/hubot-hubot-dls/issues"
+    "url": "https://github.com/tmitz/hubot-witty/issues"
   },
 
   "dependencies": {
