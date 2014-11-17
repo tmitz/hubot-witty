@@ -13,6 +13,11 @@
 # Author:
 #   mitz[tomohiro.mitsumune@dena.com]
 
+witty = [
+  "「承認します」",
+  "こちら確認しました。「承認します」"
+]
+
 module.exports = (robot) ->
   robot.hear /リリース/, (msg) ->
-    msg.reply "「承認します」"
+    msg.reply msg.random witty
