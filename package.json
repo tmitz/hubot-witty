@@ -1,7 +1,7 @@
 {
   "name": "hubot-witty",
   "description": "A hubot script that does the things",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "tmitz <tmitsumune@gmail.com>",
   "license": "MIT",
 
